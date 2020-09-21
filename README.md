@@ -64,6 +64,7 @@
 ## Cite
 * [yolov5](https://github.com/ultralytics/yolov5) (not supports empty-labeled images)
 * [yolov4](https://github.com/AlexeyAB/darknet) (supports empty-labeled images)
+* [博客blog](https://blog.csdn.net/LEILEI18A/article/details/108694753)
 * **本数据仅学术探索！！！**
 
 ## Other
