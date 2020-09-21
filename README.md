@@ -8,6 +8,14 @@
 * reflective-clothes-detect-dataset (with xml annotations 1083) download: [BaiDuYunPan](https://pan.baidu.com/s/1_Ei9bYmUpa-8q-hXZk1u8w) 提取码->(dooh) 
 * yolov5s's weight is in reflective-clothes-detect-dataset !
 
+## Applicable instructions
+0. download BaidDuYunPan's data and weight file
+1. put yolov5s's weight file into yolov5 folder
+2. cd yolov5, and excuting an order:
+    ```
+    python detect.py --source ***/aaa.jpg --weights ./best.pt
+    ```
+
 ## How to use dataset?
 * We annotate the reflective-clothes-detect-dataset as Pascal VOC format:
     ```
@@ -34,6 +42,7 @@
 
 ## demo
 * ./result: 
+
 |![demo1](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/test02.jpg)|
 |![demo2](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/test05.jpg)|
 |----|
