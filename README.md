@@ -3,6 +3,7 @@
 
 * author is leilei(CSU)
 * reflective-clothes-detect qq群: 980489677
+* 如果此项目对您有所帮助，请给个star，您的star是对我的鼓励！
 
 ## Some details
 * reflective-clothes-detect-dataset (with xml annotations 1083) download: [BaiDuYunPan](https://pan.baidu.com/s/1_Ei9bYmUpa-8q-hXZk1u8w) 提取码->(dooh) 
@@ -14,6 +15,10 @@
 2. cd yolov5, and excuting an order:
     ```
     python detect.py --source ***/aaa.jpg --weights ./best.pt
+    ```
+3. convert VOC2021 to YOLO format：
+    ```
+    call yolov5's voc_label_Re.py
     ```
 
 ## How to use dataset?
@@ -34,7 +39,7 @@
         --label_name: reflective_clothes、other_clothes
     ```
 
-* if you want to crawl some images
+* If you want to crawl some images
     ```
     Please refer to this crawler code on github:
     https://github.com/gengyanlei/fire-detect-yolov4 -> test_baidu.py | test_google.py
@@ -44,6 +49,7 @@
 * ./result: 
 
 |![demo1](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/test02.jpg)|
+|----|
 |![demo2](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/test05.jpg)|
 |----|
 
