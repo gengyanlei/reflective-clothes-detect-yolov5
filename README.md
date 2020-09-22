@@ -1,7 +1,7 @@
 # reflective-clothes-detect and dataset
 # 工作服(反光衣)检测数据集
 
-* author is leilei(CSU)
+* author is leilei
 * reflective-clothes-detect qq群: 980489677
 * 如果此项目对您有所帮助，请给个star，您的star是对我的鼓励！
 
