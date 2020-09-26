@@ -62,7 +62,7 @@
 1. 基于0步骤扩充得到的数据集，训练yolov4.
 
 ## Cite
-* [yolov5](https://github.com/ultralytics/yolov5) (not supports empty-labeled images)
+* [yolov5](https://github.com/ultralytics/yolov5) (supports empty-labeled images)
 * [yolov4](https://github.com/AlexeyAB/darknet) (supports empty-labeled images)
 * [博客blog](https://blog.csdn.net/LEILEI18A/article/details/108694753)
 * **本数据仅学术探索！！！**
