@@ -7,7 +7,7 @@
 
 ## Some details
 * reflective-clothes-detect-dataset (with xml annotations 1083) download: [BaiDuYunPan](https://pan.baidu.com/s/1_Ei9bYmUpa-8q-hXZk1u8w) 提取码->(dooh) 
-* yolov5s's weight is in reflective-clothes-detect-dataset !
+* ~~yolov5s's weight is in reflective-clothes-detect-dataset !~~
 
 ## Applicable instructions
 0. download BaidDuYunPan's data and weight file
@@ -44,6 +44,10 @@
     Please refer to this crawler code on github:
     https://github.com/gengyanlei/fire-detect-yolov4 -> test_baidu.py | test_google.py
     ```
+
+## 实际应用(Practical application)
+* 基于SHWD数据集进行安全帽-反光衣-整体人 5类标注训练yolov4-yolov5，实现施工区域or危险区域检测
+* Based on the SHWD data set, perform the five-category labeling training yolov4-yolov5 for helmet-reflective clothing-holistic people to achieve detection of construction areas or dangerous areas.
 
 ## demo
 * ./result: 
