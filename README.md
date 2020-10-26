@@ -52,6 +52,8 @@
 ## demo
 * ./result: 
 
+|![new_demo]()|
+|----|
 |![demo1](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/test02.jpg)|
 |----|
 |![demo2](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/test05.jpg)|
