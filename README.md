@@ -42,7 +42,7 @@
 * If you want to crawl some images
     ```
     Please refer to this crawler code on github:
-    https://github.com/gengyanlei/fire-detect-yolov4 -> test_baidu.py | test_google.py
+    https://github.com/gengyanlei/fire-detect-yolov4 -> crawl_baidu.py
     ```
 
 ## 实际应用(Practical application)
