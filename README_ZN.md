@@ -6,7 +6,7 @@
 * 如果此项目对您有所帮助，请给个star，您的star是对我的鼓励！
 
 ### 数据下载细节
-* [反光衣检测数据集(1083，含标注)-百度云盘下载链接](https://pan.baidu.com/s/1_Ei9bYmUpa-8q-hXZk1u8w) 提取码->(dooh)
+* [反光衣检测数据集(1083张，含标注)-百度云盘下载链接](https://pan.baidu.com/s/1_Ei9bYmUpa-8q-hXZk1u8w) 提取码->(dooh)
 * 反光衣检测yolov5s模型 直接包含在yolov5文件夹中
 
 ### 施工人员穿戴检测可视化
