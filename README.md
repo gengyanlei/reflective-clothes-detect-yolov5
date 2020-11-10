@@ -5,7 +5,7 @@
 * yolov5 detect qq群: 980489677
 * 数据集下载链接详见说明-Please refer to the instructions for the data set download link!
 * [**README_ZN 中文版说明**](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/README_ZN.md)
-* [**README_EN English Description**]()
+* [**README_EN English Description**](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/README_EN.md)
 
 ### demo
 |![new_demo](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/re_pred.jpg)|
