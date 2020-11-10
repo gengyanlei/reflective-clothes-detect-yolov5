@@ -48,7 +48,7 @@
     https://github.com/gengyanlei/fire-detect-yolov4 -> crawl_baidu.py
     ```
 
-### 实际应用
+### 实际应用 ###########核心###########
 * 基于[SHWD](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset)数据集进行安全帽-反光衣-整体人 5类标注训练yolov4-yolov5，实现施工区域or危险区域人员穿戴检测:
     1. 基于1083张反光衣图像训练好的yolov4或yolov5模型，对SHWD数据集进行反光衣类别扩充；
     2. 基于1步骤扩充得到的数据集，训练yolov4.
