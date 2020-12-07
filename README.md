@@ -6,6 +6,7 @@
 * 数据集下载链接详见说明-Please refer to the instructions for the data set download link!
 * [**README_ZN 中文版说明**](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/README_ZN.md)
 * [**README_EN English Description**](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/README_EN.md)
+* [**tensorRt inference python version**](https://github.com/gengyanlei/onnx2tensorRt)
 
 ### demo
 |![new_demo](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/re_pred.jpg)|
