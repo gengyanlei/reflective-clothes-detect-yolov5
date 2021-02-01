@@ -45,7 +45,7 @@
 
 * 百度爬虫代码
     ```
-    https://github.com/gengyanlei/fire-detect-yolov4 -> crawl_baidu.py
+    https://github.com/gengyanlei/fire-detect-yolov4 -> crawl_baidu.py crawl_baidu_bing.py
     ```
 
 ### 实际应用 ###########核心###########
