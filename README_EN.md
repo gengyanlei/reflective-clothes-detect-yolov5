@@ -3,6 +3,7 @@
 
 * author is leilei
 * reflective-clothes-detect qq-group: 980489677
+* reflective-clothes-detect qq-group2: 710514100
 * If this project is helpful to you, please give a star, your star is an encouragement to me!
 
 ### dataset download details
