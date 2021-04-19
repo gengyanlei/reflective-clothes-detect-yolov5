@@ -44,9 +44,7 @@
     ```
 
 * 百度爬虫代码
-    ```
-    https://github.com/gengyanlei/fire-detect-yolov4 -> crawl_baidu.py crawl_baidu_bing.py
-    ```
+    + [crawl.py](https://github.com/gengyanlei/fire-detect-yolov4/tree/master/crawl)
 
 ### 实际应用 ###########核心###########
 * 基于[SHWD](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset)数据集进行安全帽-反光衣-整体人 5类标注训练yolov4-yolov5，实现施工区域or危险区域人员穿戴检测:
