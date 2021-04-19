@@ -2,8 +2,7 @@
 ## helmet-clothes-detect-yolov5
 
 * author is leilei
-* reflective-clothes-detect qq-group: 980489677
-* reflective-clothes-detect qq-group2: 710514100
+* reflective-clothes-detect qq-group: 980489677, qq-group2: 710514100
 * If this project is helpful to you, please give a star, your star is an encouragement to me!
 
 ### dataset download details
@@ -11,7 +10,7 @@
 * ~~yolov5s's weight is in reflective-clothes-detect-dataset !~~
 
 ### demo
-|![new_demo](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/re_pred.jpg)|
+|![new_demo](./result/re_pred.jpg)|
 |----|
 
 ### Applicable instructions

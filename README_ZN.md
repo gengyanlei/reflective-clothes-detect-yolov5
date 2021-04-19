@@ -2,8 +2,7 @@
 ## 反光衣-安全帽检测数据集
 
 * 作者： leilei
-* 施工人员穿戴检测 qq群: 980489677
-* 施工人员穿戴检测 qq2群: 710514100
+* 施工人员穿戴检测 qq群: 980489677, qq2群: 710514100
 * 如果此项目对您有所帮助，请给个star，您的star是对我的鼓励！
 
 ### 数据下载细节
@@ -11,7 +10,7 @@
 * 反光衣检测yolov5s模型 直接包含在yolov5文件夹中
 
 ### 施工人员穿戴检测可视化
-|![new_demo](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/result/re_pred.jpg)|
+|![new_demo](./result/re_pred.jpg)|
 |----|
 
 ### 反光衣yolov5检测教程
