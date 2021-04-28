@@ -1,5 +1,4 @@
 # reflective-clothes-detect-yolov5 and dataset 
-# 施工人员穿戴检测 yolov5
 
 * author is leilei
 * yolov5 detect qq群(已满): 980489677, qq2群: 710514100
