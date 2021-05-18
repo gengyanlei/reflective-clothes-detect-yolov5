@@ -1,4 +1,4 @@
-# reflective-clothes-detect-yolov5 and dataset 
+## reflective-clothes-detect-yolov5 and dataset 
 
 * author is leilei
 * yolov5 detect qq群(已满): 980489677, qq2群: 710514100
@@ -7,7 +7,7 @@
 * [**README_EN English Description**](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/README_EN.md)
 * [**tensorRt inference python version**](https://github.com/gengyanlei/onnx2tensorRt)
 
-### ADD competitions
+### Add competitions !!!
 + [阿里天池比赛-欢迎参加](https://tianchi.aliyun.com/competition/gameList/activeList)
 
 |![game](./result/ali_guangdong.jpg)|
