@@ -7,6 +7,11 @@
 * [**README_EN English Description**](https://github.com/gengyanlei/reflective-clothes-detect/blob/master/README_EN.md)
 * [**tensorRt inference python version**](https://github.com/gengyanlei/onnx2tensorRt)
 
+### ADD competitions
++ [阿里天池比赛-欢迎参加](https://tianchi.aliyun.com/competition/gameList/activeList)
+|![game](./result/ali_guangdong.jpg)|
+|----|
+
 ### demo
 |![new_demo](./result/re_pred.jpg)|
 |----|
