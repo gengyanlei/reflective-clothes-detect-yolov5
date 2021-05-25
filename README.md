@@ -17,6 +17,10 @@
 |![new_demo](./result/re_pred.jpg)|
 |----|
 
+### Infringement
+|![infringe](./result/jishi_qinquan.jpg)|
+|----|
+
 ### Data Label Tool
 + [CVAT](https://github.com/openvinotoolkit/cvat)
 + [CVAT-Tutorial](https://blog.csdn.net/LEILEI18A/article/details/113385510)
